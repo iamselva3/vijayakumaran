@@ -139,7 +139,7 @@ export const Hero: React.FC = () => {
             </div>
 
             {/* Giant Staggered Headline */}
-            <h1 className="font-display text-[30px] xs:text-4xl sm:text-5xl md:text-6xl font-extrabold tracking-tight text-slate-900 dark:text-white leading-[1.15] break-words">
+            <h1 className="font-display text-[26px] xs:text-3xl sm:text-5xl md:text-6xl font-extrabold tracking-tight text-slate-900 dark:text-white leading-[1.18] break-words">
               Automating{' '}
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 via-indigo-500 to-violet-600 dark:from-blue-400 dark:via-indigo-300 dark:to-violet-400">
                 cloud infrastructure
