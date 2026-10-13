@@ -1,0 +1,140 @@
+%PDF-1.4
+1 0 obj
+<<
+  /Type /Catalog
+  /Pages 2 0 R
+>>
+endobj
+2 0 obj
+<<
+  /Type /Pages
+  /Kids [3 0 R]
+  /Count 1
+>>
+endobj
+3 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /MediaBox [0 0 595 842]
+  /Contents 4 0 R
+  /Resources <<
+    /Font <<
+      /F1 5 0 R
+      /F2 6 0 R
+    >>
+  >>
+>>
+endobj
+5 0 obj
+<<
+  /Type /Font
+  /Subtype /Type1
+  /BaseFont /Helvetica-Bold
+>>
+endobj
+6 0 obj
+<<
+  /Type /Font
+  /Subtype /Type1
+  /BaseFont /Helvetica
+>>
+endobj
+4 0 obj
+<<
+  /Length 1650
+>>
+stream
+BT
+/F1 22 Tf
+50 800 Td
+(VIJAYAKUMARAN A) Tj
+/F2 12 Tf
+0 -20 Td
+(Senior Technical Operations Engineer | AWS & DevOps) Tj
+/F2 10 Tf
+0 -15 Td
+(Email: vijayakumaran.ar@gmail.com | Phone: +91 97883 72454 | LinkedIn: linkedin.com/in/vijayakumaran-ar) Tj
+0 -12 Td
+(Location: Srivilliputhur, Tamil Nadu, India) Tj
+
+0 -25 Td
+/F1 14 Tf
+(PROFESSIONAL SUMMARY) Tj
+/F2 10 Tf
+0 -15 Td
+(Technical Operations Engineer with 5+ years   of experience designing, automating, and managing) Tj
+0 -12 Td
+(scalable AWS cloud infrastructure. Hands-on expertise in CI/CD pipelines, containerization, and IaC) Tj
+0 -12 Td
+(using Terraform. Experienced in ECS, EKS, Jenkins, Docker, Elastic APM, ELK, and Zero Trust security.) Tj
+
+0 -25 Td
+/F1 14 Tf
+(WORK EXPERIENCE) Tj
+/F1 11 Tf
+0 -16 Td
+(Pranion Technology Ventures Private Limited | Sept 2021 - Present) Tj
+/F2 10 Tf
+0 -14 Td
+(Senior Technical Operations Engineer) Tj
+0 -14 Td
+(- Provisioned and managed production AWS infrastructure (EC2, VPC, ECS, ECR, IAM, ALB, WAF)) Tj
+0 -12 Td
+(- Administered EKS clusters: rolling updates, HPA, Karpenter autoscaling, zero-downtime upgrades) Tj
+0 -12 Td
+(- Built automated CI/CD pipelines for 10+ apps (Laravel, Spring Boot, Node.js) with Jenkins & SonarQube) Tj
+0 -12 Td
+(- Authored optimized multi-stage Dockerfiles for Java, Node.js, and PHP microservices) Tj
+0 -12 Td
+(- Executed zero-downtime ECS deployments with ALB health checks and blue/green patterns) Tj
+0 -12 Td
+(- Migrated RDS PostgreSQL databases across AWS accounts with snapshots and cross-account sharing) Tj
+0 -12 Td
+(- Implemented AWS WAF with ALB & CloudFront, and configured Warpgate Zero Trust access gateway) Tj
+0 -12 Td
+(- Implemented end-to-end observability using Elastic APM, ELK Stack, Zabbix, and SigNoz) Tj
+
+0 -25 Td
+/F1 14 Tf
+(TECHNICAL SKILLS) Tj
+/F2 10 Tf
+0 -15 Td
+(Cloud & Infra: AWS (EC2, VPC, ECS, EKS, ECR, IAM, ALB, S3, RDS, CloudFront, WAF, CloudWatch)) Tj
+0 -12 Td
+(CI/CD & IaC: Terraform, Ansible, Jenkins, GitHub Actions, Maven, SonarQube) Tj
+0 -12 Td
+(Containers & Orchestration: Docker, Kubernetes (HPA, Karpenter, Namespaces, Secrets)) Tj
+0 -12 Td
+(Observability & Security: Elastic APM, ELK Stack, Zabbix, SigNoz, Warpgate Zero Trust, RBAC) Tj
+0 -12 Td
+(Databases & Systems: PostgreSQL, MySQL, Ubuntu, CentOS, Apache, Tomcat, Bash/Shell) Tj
+
+0 -25 Td
+/F1 14 Tf
+(EDUCATION) Tj
+/F2 10 Tf
+0 -15 Td
+(B.E. Electronics & Communication Engineering (2016 - 2020)) Tj
+0 -12 Td
+(Kalasalingam Institute of Technology, Krishnankovil) Tj
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000350 00000 n 
+0000000240 00000 n 
+0000000295 00000 n 
+trailer
+<<
+  /Size 7
+  /Root 1 0 R
+>>
+startxref
+2050
+%%EOF

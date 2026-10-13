@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="brandGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3B82F6" />
+      <stop offset="100%" stop-color="#8B5CF6" />
+    </linearGradient>
+    <linearGradient id="awsGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF9900" />
+      <stop offset="100%" stop-color="#FFB84D" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#0E1220" />
+  <rect x="1" y="1" width="62" height="62" rx="15" stroke="url(#brandGrad)" stroke-width="2" stroke-opacity="0.6" />
+  <!-- Terminal Prompt / Cloud glyph -->
+  <path d="M18 22L28 32L18 42" stroke="url(#brandGrad)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <line x1="32" y1="42" x2="46" y2="42" stroke="url(#awsGrad)" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="44" cy="22" r="3" fill="#3B82F6" />
+</svg>
